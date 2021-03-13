@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+// base 
+@import "./assets/styles/reset";
+@import "./assets/styles/variables";
+@import "./assets/styles/mixins";
+@import "./assets/styles/fonts";
+
+//layout 
+@import "./assets/styles/layout";
+@import "./assets/styles/loading";
