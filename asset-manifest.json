@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-port/static/css/main.cd3329bc.chunk.css",
-    "main.js": "/react-port/static/js/main.bcd947a3.chunk.js",
-    "main.js.map": "/react-port/static/js/main.bcd947a3.chunk.js.map",
+    "main.css": "/react-port/static/css/main.8215129d.chunk.css",
+    "main.js": "/react-port/static/js/main.f555d484.chunk.js",
+    "main.js.map": "/react-port/static/js/main.f555d484.chunk.js.map",
     "runtime-main.js": "/react-port/static/js/runtime-main.490edabe.js",
     "runtime-main.js.map": "/react-port/static/js/runtime-main.490edabe.js.map",
     "static/js/2.3e24a515.chunk.js": "/react-port/static/js/2.3e24a515.chunk.js",
     "static/js/2.3e24a515.chunk.js.map": "/react-port/static/js/2.3e24a515.chunk.js.map",
     "index.html": "/react-port/index.html",
-    "static/css/main.cd3329bc.chunk.css.map": "/react-port/static/css/main.cd3329bc.chunk.css.map",
+    "static/css/main.8215129d.chunk.css.map": "/react-port/static/css/main.8215129d.chunk.css.map",
     "static/js/2.3e24a515.chunk.js.LICENSE.txt": "/react-port/static/js/2.3e24a515.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/react-port/static/media/skill3.b169797b.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.490edabe.js",
     "static/js/2.3e24a515.chunk.js",
-    "static/css/main.cd3329bc.chunk.css",
-    "static/js/main.bcd947a3.chunk.js"
+    "static/css/main.8215129d.chunk.css",
+    "static/js/main.f555d484.chunk.js"
   ]
 }
